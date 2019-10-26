@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "446835244439",
+    "firebase_url": "https://alertar-7f573.firebaseio.com",
+    "project_id": "alertar-7f573",
+    "storage_bucket": "alertar-7f573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446835244439:android:953f6eba366403df",
+        "android_client_info": {
+          "package_name": "com.senai.alertar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446835244439-osq8h2kohrq27n50ccp2ae28rfde735j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6jQHWnyC093RhROnByxd7tu9k6ISPoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

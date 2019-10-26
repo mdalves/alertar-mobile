@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alertar</string>
+    <string name="app_tela_inicial">Você está seguro. O aplicativo Alertar está monitorando o ar para você."</string>
+    <string name="title_activity_display_alertas">DisplayAlertas</string>
+</resources>
